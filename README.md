@@ -7,6 +7,7 @@ Manning's book forum: [https://forums.manning.com/forums/spark-in-action](https:
 
 The repo contains book listings organized by chapter and programming language (if applicable):
 
+
 ```
 ch02
   ├── scala
